@@ -1,8 +1,17 @@
-### Hi there 👋
+## Backend developer
 
 <!--
-**chanhyeong/chanhyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech stack, working for
+- Java, Spring Boot, MySQL (under 8.0), RabbitMQ, NGINX, ...
+- develop and maintaining a service which is over 15+ years
+- Automation (notification, deployment)
+-->
 
+### Currenty interested in (and not good at)
+- Kubenetes
+- Reactive programming
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
