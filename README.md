@@ -7,9 +7,10 @@
 - Automation (notification, deployment)
 -->
 
-### Currenty interested in (and not good at)
+### interested in
 - Kubenetes
 - Reactive programming
+- Kotlin
 
 <!--
 Here are some ideas to get you started:
