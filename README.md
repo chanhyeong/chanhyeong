@@ -8,9 +8,8 @@
 -->
 
 ### interested in
-- Kubenetes
-- Reactive programming
 - Kotlin
+- Kafka
 
 <!--
 Here are some ideas to get you started:
