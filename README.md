@@ -1,4 +1,4 @@
-## Backend developer
+# Chanhyeong Cho
 
 <!--
 ### Tech stack, working for
@@ -7,19 +7,31 @@
 - Automation (notification, deployment)
 -->
 
-### interested in
-- Kotlin
-- Kafka
+## Careers
 
-<!--
-Here are some ideas to get you started:
+### NAVER Corp (2018/03 ~ current)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Plasma (2021/05 ~ current)
+
+Naver Pay system redesign
+
+- event publishing module re-development
+- settlement by case (batch processing -> event consuming), daily settlement batch 
+
+#### Knowledge iN / eXpert (2018/03 ~ 2021/04)
+
+- Internal notification architecture redesign
+- [eXpert](https://m.expert.naver.com) service development
+    - notification, review, feedback, profile, ...
+- [Knowledge iN](https://kin.naver.com) service development
+    - PC End page renewal, [CHOiCE](https://m.kin.naver.com/mobile/choice/home), ...
+
+### Internship (2017/12 ~ 2018/01)
+
+- NAVER Corp. (Knowledge iN)
+
+## Languages & Frameworks
+
+- JAVA, Kotlin, Spring (plain, boot, kafka, cloud-stream)
+- Javascript, jQuery
+- bash
