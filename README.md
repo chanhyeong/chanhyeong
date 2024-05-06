@@ -1,37 +1,36 @@
-# Chanhyeong Cho
+🖥️ Backend engineer
 
-<!--
-### Tech stack, working for
-- Java, Spring Boot, MySQL (under 8.0), RabbitMQ, NGINX, ...
-- develop and maintaining a service which is over 15+ years
-- Automation (notification, deployment)
--->
+### Experiences
 
-## Careers
+- JAVA, Kotlin, Spring (plain, boot)
+- Distributed database (application-aware, routing-layer)
+- Messaging system (Apache Kafka w. spring-kafka, spring-cloud-stream-kafka)
+- Opensource contributions in spring-projects, spring-cloud, naver
 
-### NAVER Corp (2018/03 ~ current)
+### Careers
 
-#### Plasma (2021/05 ~ current)
+#### NAVER Corp (2018/03 ~)
 
-Naver Pay system redesign
+- **Plasma (2021/05 ~)**: NaverPay system re-architecturing TF
+    - Order (2022/10 ~)
+        - Re-design event publishing system that propagates domain events to outside.
+        - Switch from a single database to a distributed database for write operations.
+    - Settlement (2021/05 ~ 2022/09)
+        - Switch batch processing into event processing of 'settlement per case'
+        - Develop batch processing of 'daily settlement'
 
-- event publishing module re-development
-- settlement by case (batch processing -> event consuming), daily settlement batch 
-
-#### Knowledge iN / eXpert (2018/03 ~ 2021/04)
-
-- Internal notification architecture redesign
-- [eXpert](https://m.expert.naver.com) service development
-    - notification, review, feedback, profile, ...
-- [Knowledge iN](https://kin.naver.com) service development
-    - PC End page renewal, [CHOiCE](https://m.kin.naver.com/mobile/choice/home), ...
+- **Knowledge iN / eXpert (2018/03 ~ 2021/04)**
+    - Re-design internal notification architecture.
+    - Develop features for releasing [eXpert](https://m.expert.naver.com) service
+        - notification, review, feedback, profile, ...
+    - [Knowledge iN](https://kin.naver.com)
+        - Release - PC End page renewal, [CHOiCE](https://m.kin.naver.com/mobile/choice/home)
+        - Sustain - Enhancing internal data manipulator, introducing circuit breaker, ChatOps, ...
 
 ### Internship (2017/12 ~ 2018/01)
 
-- NAVER Corp. (Knowledge iN)
+Statistics system for roulette prize in NAVER Corp.
 
-## Languages & Frameworks
+### Educations
 
-- JAVA, Kotlin, Spring (plain, boot, kafka, cloud-stream)
-- Javascript, jQuery
-- bash
+Department of Software and Computer Engineering at [Ajou University](https://ajou.ac.kr/), Bachelor's degree (2012 ~ 2018)
